@@ -2,7 +2,7 @@
 description: 'Ecosystem Focus: Grasslands, Shrubland, Pastureland'
 ---
 
-# CarbonPlus Methodology for Grazing Systems v1.0
+# CarbonPlus Methodology and for Grazing Systems v1.0 & CarbonPlus GHG & Co-Benefits in Grazing System
 
 ## Overview
 
@@ -28,7 +28,11 @@ Coupled with this methodology, the updated "CarbonPlus GHG & Co-Benefits in Graz
 
 The upgraded “CarbonPlus GHG & Co-Benefits in Grazing Systems Credit Class” now includes lessons learned from these last 5 years from the VCMs, to make credits more robust and market accepted. This version has a more comprehensive additionality definition and also restricts the lookback period to 5 years, formerly 10. The language and definitions throughout the document have also been improved.
 
-Please submit comments on the credit class and methodology&#x20;
+
+
+{% hint style="info" %}
+Please submit comments for methodology and credit class [here](https://airtable.com/appzrw40tJdLBM2RS/shrHn8lLVSSftTQP6)
+{% endhint %}
 
 
 
