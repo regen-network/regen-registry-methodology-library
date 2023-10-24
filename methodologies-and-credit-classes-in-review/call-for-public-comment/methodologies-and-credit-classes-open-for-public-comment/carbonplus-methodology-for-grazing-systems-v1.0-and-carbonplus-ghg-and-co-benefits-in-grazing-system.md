@@ -2,7 +2,7 @@
 description: 'Ecosystem Focus: Grasslands, Shrubland, Pastureland'
 ---
 
-# CarbonPlus Methodology and for Grazing Systems v1.0 & CarbonPlus GHG & Co-Benefits in Grazing System
+# CarbonPlus Methodology for Grazing Systems v1.0 & CarbonPlus GHG & Co-Benefits in Grazing System
 
 ## Overview
 
@@ -18,19 +18,19 @@ The “Carbon_Plus_ Methodology for Grazing Systems 1.0” is a measurement-base
 
 This methodology was developed in-house by the Regen Science Team, addressing challenges and experiences from several stakeholders, including land stewards, methodology developers, soil scientists, project developers, and other experts in the space of VCMs.
 
-Version 1.0 of the methodology has gone through an exhaustive formal peer review done by three experts in the fields of soil sciences, geostatistics,  and GHG accounting. We welcome constructive comments and debates for continued improvements!&#x20;
+Version 1.0 of the methodology has gone through an exhaustive formal peer review done by three experts in the fields of soil sciences, geostatistics, and GHG accounting. We welcome constructive comments and debates for continued improvements!&#x20;
 
 
 
-**CarbonPlus GHG & Co-Benefits in Grazing Systems Credit Class - Public Comment**
+**CarbonPlus GHG & Co-Benefits in Grazing Systems Credit Class**&#x20;
 
-Coupled with this methodology, the updated "CarbonPlus GHG & Co-Benefits in Grazing Systems Credit Class" is also open for public comment and outlines the more programmatic requirements.  There were no additional expert reviews of this document in this round of revision
+Coupled with this methodology, the updated "CarbonPlus GHG & Co-Benefits in Grazing Systems Credit Class" is also open for public comment and outlines the more programmatic requirements of the data collection and credit creation process.  There were no additional expert reviews of this document in this round of revisions.
 
 The upgraded “Carbon_Plus_ GHG & Co-Benefits in Grazing Systems Credit Class” now includes lessons learned from these last 5 years from the VCMs, to make credits more robust and market accepted. This version has a more comprehensive additionality definition and also restricts the lookback period to 5 years, formerly 10. The language and definitions throughout the document have also been improved.
 
 
 
-For additional discussion around this public comment please visit the  [Hylo Discussion Page ](https://www.hylo.com/groups/regen-methodology-development/post/66297)
+\*For additional discussion around this public comment please visit the  [Hylo Discussion Page ](https://www.hylo.com/groups/regen-methodology-development/post/66297)
 
 
 
