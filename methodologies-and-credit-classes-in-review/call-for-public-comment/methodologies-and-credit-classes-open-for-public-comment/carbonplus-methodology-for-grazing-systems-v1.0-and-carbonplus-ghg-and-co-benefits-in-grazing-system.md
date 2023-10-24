@@ -2,11 +2,13 @@
 description: 'Ecosystem Focus: Grasslands, Shrubland, Pastureland'
 ---
 
-# CarbonPlus Methodology for Grazing Systems v1.0 & CarbonPlus GHG & Co-Benefits in Grazing Systems
+# CarbonPlus Methodology for Grazing Systems v1.0 & Credit Class
 
 ## Overview
 
 **Methodology Name**: _CarbonPlus Methodology for Grazing Systems v1.0_
+
+**Credit Class Name**_: C_arbon_Plus_ GHG & Co-Benefits in Grazing Systems&#x20;
 
 **Developer:** Regen Network Development PBC- Science Team
 
