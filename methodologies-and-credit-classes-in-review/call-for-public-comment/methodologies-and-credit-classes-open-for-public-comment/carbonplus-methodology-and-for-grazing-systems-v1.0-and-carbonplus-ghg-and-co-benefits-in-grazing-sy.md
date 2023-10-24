@@ -26,15 +26,21 @@ Version 1.0 of the methodology has gone through an exhaustive formal peer review
 
 Coupled with this methodology, the updated "CarbonPlus GHG & Co-Benefits in Grazing Systems Credit Class" is also open for public comment and outlines the more programmatic requirements.  There were no additional expert reviews of this document in this round of revision
 
-The upgraded “CarbonPlus GHG & Co-Benefits in Grazing Systems Credit Class” now includes lessons learned from these last 5 years from the VCMs, to make credits more robust and market accepted. This version has a more comprehensive additionality definition and also restricts the lookback period to 5 years, formerly 10. The language and definitions throughout the document have also been improved.
+The upgraded “Carbon_Plus_ GHG & Co-Benefits in Grazing Systems Credit Class” now includes lessons learned from these last 5 years from the VCMs, to make credits more robust and market accepted. This version has a more comprehensive additionality definition and also restricts the lookback period to 5 years, formerly 10. The language and definitions throughout the document have also been improved.
 
 
+
+***
+
+**Documents for Review:**
+
+{% file src="../../../.gitbook/assets/CarbonPlus Methodology for GHG and Co-Benefits in Grazing Systems V1.0.docx.pdf" %}
 
 {% hint style="info" %}
 Please submit comments for methodology and credit class [here](https://airtable.com/appzrw40tJdLBM2RS/shrHn8lLVSSftTQP6)
 {% endhint %}
 
-
+***
 
 [Hylo Discussion Page ](https://www.hylo.com/groups/regen-methodology-development/post/66297)- A space for additional discussions
 
