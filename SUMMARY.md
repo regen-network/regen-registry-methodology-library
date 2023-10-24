@@ -14,6 +14,6 @@
 
 * [Call for Public Comment](methodologies-and-credit-classes-in-review/call-for-public-comment/README.md)
   * [Methodologies and Credit Classes Open for Public Comment](methodologies-and-credit-classes-in-review/call-for-public-comment/methodologies-and-credit-classes-open-for-public-comment.md)
-    * [CarbonPlus Methodology and for Grazing Systems v1.0 & CarbonPlus GHG & Co-Benefits in Grazing System](methodologies-and-credit-classes-in-review/call-for-public-comment/methodologies-and-credit-classes-open-for-public-comment/carbonplus-methodology-and-for-grazing-systems-v1.0-and-carbonplus-ghg-and-co-benefits-in-grazing-sy.md)
+    * [CarbonPlus Methodology for Grazing Systems v1.0 & CarbonPlus GHG & Co-Benefits in Grazing System](methodologies-and-credit-classes-in-review/call-for-public-comment/methodologies-and-credit-classes-open-for-public-comment/carbonplus-methodology-for-grazing-systems-v1.0-and-carbonplus-ghg-and-co-benefits-in-grazing-system.md)
   * [Methodologies Coming Soon](methodologies-and-credit-classes-in-review/call-for-public-comment/methodologies-coming-soon/README.md)
     * [ERA Brazil Methodology for Biodiversity Stewardship Tokens](methodologies-and-credit-classes-in-review/call-for-public-comment/methodologies-coming-soon/era-brazil-methodology-for-biodiversity-stewardship-tokens.md)
