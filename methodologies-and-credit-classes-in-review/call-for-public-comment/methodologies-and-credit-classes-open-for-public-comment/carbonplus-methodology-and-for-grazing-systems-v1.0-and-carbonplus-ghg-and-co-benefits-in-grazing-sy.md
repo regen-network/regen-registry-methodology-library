@@ -30,6 +30,10 @@ The upgraded â€œCarbon_Plus_ GHG & Co-Benefits in Grazing Systems Credit Classâ€
 
 
 
+For additional discussion around this public comment please visit the  [Hylo Discussion Page ](https://www.hylo.com/groups/regen-methodology-development/post/66297)
+
+
+
 ***
 
 **Documents for Review:**
@@ -42,7 +46,7 @@ Please submit comments for methodology and credit class [here](https://airtable.
 
 ***
 
-[Hylo Discussion Page ](https://www.hylo.com/groups/regen-methodology-development/post/66297)- A space for additional discussions
+## Document History:
 
 {% tabs %}
 {% tab title="Initial Submission" %}
