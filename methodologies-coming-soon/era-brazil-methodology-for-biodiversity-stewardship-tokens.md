@@ -30,13 +30,13 @@ description: >-
 ## Includes a new clean methodology version, a version with tracked changes, an updated umbrella species guideline, and a credit simulation document
 {% endhint %}
 
-{% file src="../../.gitbook/assets/ERA Biodiversity Methodology_R NOV 2023 - without track.pdf" %}
+{% file src="../.gitbook/assets/ERA Biodiversity Methodology_R NOV 2023 - without track.pdf" %}
 
-{% file src="../../.gitbook/assets/ERA Biodiversity Methodology_R Nov 2023.docx" %}
+{% file src="../.gitbook/assets/ERA Biodiversity Methodology_R Nov 2023.docx" %}
 
-{% file src="../../.gitbook/assets/US Guideline_Jaguar_R NOV 2023.docx" %}
+{% file src="../.gitbook/assets/US Guideline_Jaguar_R NOV 2023.docx" %}
 
-{% file src="../../.gitbook/assets/ERA Biodiversity Credit Simulation Template_R NOV 2023.xlsx" %}
+{% file src="../.gitbook/assets/ERA Biodiversity Credit Simulation Template_R NOV 2023.xlsx" %}
 
 ## Document History
 
@@ -48,9 +48,9 @@ Historical versions that can be viewed to understand the process of reviews and 
 
 The initial submission was a Biodiversity Methodology for Keystone Species Stewardship submitted on June 18, 2022.  An additional Keystone Species Guideline focusing on the Jaguar as an example was also submitted.
 
-{% file src="../../.gitbook/assets/18.06.2022 Biodiversity Methodology.docx.pdf" %}
+{% file src="../.gitbook/assets/18.06.2022 Biodiversity Methodology.docx.pdf" %}
 
-{% file src="../../.gitbook/assets/18_06_2022_Keystone Species Guideline_Jaguar.docx.pdf" %}
+{% file src="../.gitbook/assets/18_06_2022_Keystone Species Guideline_Jaguar.docx.pdf" %}
 {% endtab %}
 
 {% tab title="Internal Review" %}
@@ -66,7 +66,7 @@ _Date: July 11, 2022 - May 5, 2023_
 
 **Round 1: **_**ERABrazil Biodiversity Methodology for Keystone Species Stewardship**_
 
-{% file src="../../.gitbook/assets/ERA Internal Review Feedack Form_July 2022.pdf" %}
+{% file src="../.gitbook/assets/ERA Internal Review Feedack Form_July 2022.pdf" %}
 Submission Date: July 20, 2022
 {% endfile %}
 
@@ -74,17 +74,17 @@ Submission Date: July 20, 2022
 
 **Round 2: Title Updated to **_**Methodology for Biodiversity Stewardship Tokens**_
 
-{% file src="../../.gitbook/assets/ERA Biodiversity Methodology 17.11.22.docx.pdf" %}
+{% file src="../.gitbook/assets/ERA Biodiversity Methodology 17.11.22.docx.pdf" %}
 
-{% file src="../../.gitbook/assets/US Guideline_Jaguar_17.11.2022_.docx.pdf" %}
+{% file src="../.gitbook/assets/US Guideline_Jaguar_17.11.2022_.docx.pdf" %}
 
 **Round 3: Addressing comment from Round 2 & Additional Comments Submitted**
 
-{% file src="../../.gitbook/assets/ERA Methodology Internal Review R2 Comments with Responses .docx.pdf" %}
+{% file src="../.gitbook/assets/ERA Methodology Internal Review R2 Comments with Responses .docx.pdf" %}
 
-{% file src="../../.gitbook/assets/ERA Biodiversity Stewardship Tokens Methodology_Feb 6, 2023.docx.pdf" %}
+{% file src="../.gitbook/assets/ERA Biodiversity Stewardship Tokens Methodology_Feb 6, 2023.docx.pdf" %}
 
-{% file src="../../.gitbook/assets/US Guideline_Jaguar_Feb 6, 2023.docx.pdf" %}
+{% file src="../.gitbook/assets/US Guideline_Jaguar_Feb 6, 2023.docx.pdf" %}
 {% endtab %}
 
 {% tab title="Updated Version with Comments" %}
@@ -94,9 +94,9 @@ Submission Date: July 20, 2022
 {% tab title="Public Comment Versions" %}
 
 
-{% file src="../../.gitbook/assets/ERA Biodiversity Methodology 03.June.2023.pdf" %}
+{% file src="../.gitbook/assets/ERA Biodiversity Methodology 03.June.2023.pdf" %}
 
-{% file src="../../.gitbook/assets/US Guideline_Jaguar_03.June.23.pdf" %}
+{% file src="../.gitbook/assets/US Guideline_Jaguar_03.June.23.pdf" %}
 {% endtab %}
 {% endtabs %}
 
