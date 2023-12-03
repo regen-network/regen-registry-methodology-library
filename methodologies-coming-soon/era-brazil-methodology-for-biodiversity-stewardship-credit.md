@@ -4,11 +4,11 @@ description: >-
   Reviewers Comment
 ---
 
-# ERA Brazil Methodology for Biodiversity Stewardship Tokens
+# ERA Brazil Methodology for Biodiversity Stewardship Credit
 
 ## Overview
 
-> **Methodology Name**: Biodiversity Stewardship Tokens Methodology: Protocol for Ideation, Implementation & Monitoring
+> **Methodology Name**: Biodiversity Stewardship Credit Methodology: Protocol for Ideation, Implementation & Monitoring
 >
 > **Developer:** ERA CARBON SERVIÇOS AMBIENTAIS LTDA.
 >
@@ -16,7 +16,7 @@ description: >-
 >
 > **Abstract:**
 >
-> The ERA Brazil Methodology for Biodiversity Stewardship Tokens (henceforth called the “Methodology”) provides a holistic assessment of ecological state indicators as well as practice-based indicators to incentivize the maintenance of conservation areas, crucial for the perennity and resilience of wildlife and biodiversity.
+> The ERA Brazil Methodology for Biodiversity Stewardship Credit (henceforth called the “Methodology”) provides a holistic assessment of ecological state indicators as well as practice-based indicators to incentivize the maintenance of conservation areas, crucial for the perennity and resilience of wildlife and biodiversity.
 >
 > This Methodology sets the basis for the continuous monitoring of Umbrella Species on a specific Project Time Frame, which, coupled with Environmental Stewardship indicators, creates a favorable net outcome for the chosen Umbrella Species (US) and the whole ecosystem under management.
 >

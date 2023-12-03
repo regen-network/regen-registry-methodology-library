@@ -12,7 +12,7 @@
 
 ## Methodologies Coming Soon
 
-* [ERA Brazil Methodology for Biodiversity Stewardship Tokens](methodologies-coming-soon/era-brazil-methodology-for-biodiversity-stewardship-tokens.md)
+* [ERA Brazil Methodology for Biodiversity Stewardship Credit](methodologies-coming-soon/era-brazil-methodology-for-biodiversity-stewardship-credit.md)
 
 ## Methodologies and Credit Class Open for Public Comment
 
