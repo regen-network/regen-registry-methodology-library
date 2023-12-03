@@ -27,6 +27,6 @@ At the conclusion of the public comment period, comments are compiled into a rep
 [methodologies-and-credit-classes-open-for-public-comment.md](methodologies-and-credit-classes-open-for-public-comment.md)
 {% endcontent-ref %}
 
-{% content-ref url="methodologies-coming-soon/" %}
-[methodologies-coming-soon](methodologies-coming-soon/)
+{% content-ref url="../../published-methodologies/methodologies-coming-soon/" %}
+[methodologies-coming-soon](../../published-methodologies/methodologies-coming-soon/)
 {% endcontent-ref %}
