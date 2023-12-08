@@ -4,10 +4,10 @@
 
 ## Published Methodologies
 
-* [Appendix: In-Stand Surface Application of Biochar in Forestlands Methodology](published-methodologies/appendix-in-stand-surface-application-of-biochar-in-forestlands-methodology.md)
-* [Soil Organic Carbon Estimation in Regenerative Cropping & Managed Grassland Ecosystems](published-methodologies/soil-organic-carbon-estimation-in-regenerative-cropping-and-managed-grassland-ecosystems.md)
-* [Methodology for Grazing in Vineyard Systems, v1.0](published-methodologies/methodology-for-grazing-in-vineyard-systems-v1.0.md)
 * [CarbonPlus Methodology for Grazing Systems v1.0 & Credit Class](published-methodologies/carbonplus-methodology-for-grazing-systems-v1.0-and-credit-class.md)
+* [Appendix: In-Stand Surface Application of Biochar in Forestlands Methodology](published-methodologies/appendix-in-stand-surface-application-of-biochar-in-forestlands-methodology.md)
+* [Methodology for Grazing in Vineyard Systems, v1.0](published-methodologies/methodology-for-grazing-in-vineyard-systems-v1.0.md)
+* [Soil Organic Carbon Estimation in Regenerative Cropping & Managed Grassland Ecosystems](published-methodologies/soil-organic-carbon-estimation-in-regenerative-cropping-and-managed-grassland-ecosystems.md)
 
 ## Methodologies Coming Soon
 
