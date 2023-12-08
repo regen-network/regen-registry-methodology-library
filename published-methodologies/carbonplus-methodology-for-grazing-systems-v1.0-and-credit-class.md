@@ -32,21 +32,7 @@ The upgraded â€œCarbon_Plus_ GHG & Co-Benefits in Grazing Systems Credit Classâ€
 
 
 
-\*For additional discussion around this public comment please visit the  [Hylo Discussion Page ](https://www.hylo.com/groups/regen-methodology-development/post/66297)
-
-
-
-***
-
-**Documents for Review:**
-
-{% file src="../../../.gitbook/assets/CarbonPlus Methodology for GHG and Co-Benefits in Grazing Systems V1.0.docx.pdf" %}
-
-{% file src="../../../.gitbook/assets/CarbonPlus GHG and Co-Benefits in Grazing Systems Credit Class_October_2023.pdf" %}
-
-{% hint style="info" %}
-Please submit comments for methodology and credit class [here](https://airtable.com/appzrw40tJdLBM2RS/shrHn8lLVSSftTQP6)
-{% endhint %}
+{% file src="../.gitbook/assets/CarbonPlus Methodology for GHG and Co-Benefits in Grazing Systems V1.0_2023.pdf" %}
 
 ***
 
@@ -56,27 +42,31 @@ Please submit comments for methodology and credit class [here](https://airtable.
 
 {% tabs %}
 {% tab title="Initial Submission" %}
-{% file src="../../../.gitbook/assets/Methodology for GHG and Co-Benefits in Grazing Systems V1.0 -draft.docx.pdf" %}
+{% file src="../.gitbook/assets/Methodology for GHG and Co-Benefits in Grazing Systems V1.0 -draft.docx.pdf" %}
 
 
 {% endtab %}
 
 {% tab title="Expert Peer Reviews" %}
-{% file src="../../../.gitbook/assets/Response to Reviewer_1.docx.pdf" %}
+{% file src="../.gitbook/assets/Response to Reviewer_1.docx.pdf" %}
 
-{% file src="../../../.gitbook/assets/Response to Reviewer Miguel Taboada.docx.pdf" %}
+{% file src="../.gitbook/assets/Response to Reviewer Miguel Taboada.docx.pdf" %}
 
-{% file src="../../../.gitbook/assets/Response to Reviewer Hugh Sturrock.docx.pdf" %}
+{% file src="../.gitbook/assets/Response to Reviewer Hugh Sturrock.docx.pdf" %}
 
 Revisions have also been compiled into this report:
 
-{% file src="../../../.gitbook/assets/CarbonPlus Grasslands Methodology V1.0  Revision Report (synthesis).pdf" %}
+{% file src="../.gitbook/assets/CarbonPlus Grasslands Methodology V1.0  Revision Report (synthesis).pdf" %}
 
 
 {% endtab %}
 
-{% tab title="Final Documents" %}
-{% file src="../../../.gitbook/assets/CarbonPlus Methodology for GHG and Co-Benefits in Grazing Systems V1.0.docx.pdf" %}
+{% tab title="Public Comment" %}
+{% file src="../.gitbook/assets/CarbonPlus Methodology for GHG and Co-Benefits in Grazing Systems V1.0.docx.pdf" %}
+
+{% file src="../.gitbook/assets/CarbonPlus GHG and Co-Benefits in Grazing Systems Credit Class_October_2023.pdf" %}
+
+{% file src="../.gitbook/assets/CarbonPlus _ Public Comment Revision Report 2023.pdf" %}
 
 
 {% endtab %}
