@@ -18,4 +18,5 @@
 ## Methodologies and Credit Class Open for Public Comment
 
 * [Call for Public Comment](methodologies-and-credit-class-open-for-public-comment/call-for-public-comment/README.md)
-  * [Methodologies and Credit Classes Open for Public Comment](methodologies-and-credit-class-open-for-public-comment/call-for-public-comment/methodologies-and-credit-classes-open-for-public-comment.md)
+  * [Methodologies and Credit Classes Open for Public Comment](methodologies-and-credit-class-open-for-public-comment/call-for-public-comment/methodologies-and-credit-classes-open-for-public-comment/README.md)
+    * [Watershed Nature-Based and Green Infrastructure Water Methodlogy and Watershed Credit Class](methodologies-and-credit-class-open-for-public-comment/call-for-public-comment/methodologies-and-credit-classes-open-for-public-comment/watershed-nature-based-and-green-infrastructure-water-methodlogy-and-watershed-credit-class.md)
