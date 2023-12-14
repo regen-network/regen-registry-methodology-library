@@ -2,7 +2,7 @@
 description: 'Ecosystem Focus: Wetlands'
 ---
 
-# Watershed Nature-Based and Green Infrastructure Water Methodlogy and Watershed Credit Class
+# Watershed Nature-Based and Green Infrastructure Water Methodology and Watershed Credit Class
 
 ## Overview
 
