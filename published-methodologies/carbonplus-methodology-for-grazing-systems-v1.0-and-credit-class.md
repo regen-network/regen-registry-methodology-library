@@ -32,11 +32,7 @@ The upgraded â€œCarbon_Plus_ GHG & Co-Benefits in Grazing Systems Credit Classâ€
 
 
 
-{% file src="../.gitbook/assets/CarbonPlus Methodology for GHG and Co-Benefits in Grazing Systems V1.0_2023.pdf" %}
-
-***
-
-##
+{% file src="../.gitbook/assets/CarbonPlus Methodology for GHG and Co-Benefits in Grazing Systems V1.0- FINAL peer reviewed and pub. commented.docx.pdf" %}
 
 ## Document History:
 
