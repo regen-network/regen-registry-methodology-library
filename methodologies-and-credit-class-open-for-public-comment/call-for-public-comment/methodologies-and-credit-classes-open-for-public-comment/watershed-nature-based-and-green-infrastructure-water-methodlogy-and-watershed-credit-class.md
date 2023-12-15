@@ -92,6 +92,16 @@ ROUND 1
 
 **Reviewer #2**
 
+{% file src="../../../.gitbook/assets/Reviewer #2_Credit Class Comment Revision Report w Virridy Response.pdf" %}
+
+{% file src="../../../.gitbook/assets/Reviewer #2_Methodology Comment Revision Report w Virridy Responses.pdf" %}
+
+Reviewer #3
+
+{% file src="../../../.gitbook/assets/Reviewer #3_Credit Class Revision Report.pdf" %}
+
+{% file src="../../../.gitbook/assets/Reviewer #3_Methodology Revision Report.pdf" %}
+
 UPDATED DOCUMENTS AFTER ROUND 1
 
 {% file src="../../../.gitbook/assets/Credit Class Redline_Post Round 1.pdf" %}
@@ -114,6 +124,17 @@ Reviewer #1
 
 Reviewer #2
 
+{% file src="../../../.gitbook/assets/Reviewer #2_Round 2_Credit Class Comment Revision Report w Virridy Response.pdf" %}
+
+{% file src="../../../.gitbook/assets/Reviewer #2_Round 2_Methodology Comment Revision Report w Virridy Responses.pdf" %}
+
+Reviewer #3
+
+{% file src="../../../.gitbook/assets/Reviewer #3_Round 2_Credit Class Revision Report.pdf" %}
+
+{% file src="../../../.gitbook/assets/Reviewer #3_Round 2_Methodology Revision Report.pdf" %}
+
 
 {% endtab %}
 {% endtabs %}
+
