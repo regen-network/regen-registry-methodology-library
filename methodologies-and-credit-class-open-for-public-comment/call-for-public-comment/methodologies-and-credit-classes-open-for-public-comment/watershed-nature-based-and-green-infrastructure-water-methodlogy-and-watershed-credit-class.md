@@ -6,9 +6,9 @@ description: 'Ecosystem Focus: Wetlands'
 
 ## Overview
 
-**Methodology Name**: _Watershed Nature-Based and Green Infrastructure Activities Avoiding Emission from Water Management Gray Infrastructure Construction and Operations Methodology v1.0_
+**Methodology**: _Watershed Nature-Based and Green Infrastructure Activities Avoiding Emission from Water Management Gray Infrastructure Construction and Operations Methodology v1.0_
 
-**Credit Class Name**_: GHG & Co-Benefits in Watershed Carbon v1.0_&#x20;
+**Credit Class**_: GHG & Co-Benefits in Watershed Carbon v1.0_&#x20;
 
 **Developer:** Virridy
 
@@ -16,7 +16,7 @@ description: 'Ecosystem Focus: Wetlands'
 
 **Abstract:**
 
-**Credit Class**
+* **Credit Class**
 
 This Credit Class can be used by Project Proponents to generate carbon credits by reducing nonpoint source contamination of watersheds, thereby avoiding the increased greenhouse gas emissions from the status-quo infrastructure construction and electricity use  associated with industrial drinking water and wastewater management and treatment.
 
@@ -30,7 +30,7 @@ Carbon Emissions Avoided: Avoided future CO2e emissions calculated by quantifyin
 
 For energy this would be the corresponding energy savings multiplied by the average grams or tons CO2e that exists and is projected to exist in the regional electricity grid for the life of the projected upgrade. For materials this would be the material-specific life cycle inventory data for CO2e emissions.
 
-**Methodology**
+* **Methodology**
 
 This _Methodology_ can be used by _Project Proponents_ to generate carbon credits by reducing nonpoint source contamination of watersheds, thereby avoiding the increased greenhouse gas emissions from the status-quo infrastructure construction and electricity use associated with industrial drinking water and wastewater management and treatment.
 
@@ -44,9 +44,21 @@ This methodology creates a standardized approach to quantify and verify the emis
 
 {% file src="../../../.gitbook/assets/Regen Network - Watershed Carbon.docx (1).pdf" %}
 
+***
+
+**Additional supporting documents and articles by the authors of this methodology and credit class:**
+
+* Research Square Pre-print Article: [_Greening America's Rivers: The Potential of Climate Financing for Nature-Based Water Quality Improvement_](https://www.researchsquare.com/article/rs-3253325/v1)_._ Evan Thomas, Braden Limb, Jason Quinn, Alex Johnson, Rob Sowby, Zia Mehrabi
+* Mortenson Center in Global Engineering & Resliience. University of Colorado Boulder. [_Decarbonizing Water: State Trends and Opportunities to Apply the Voluntary Carbon Market Toward Global Water Security_](https://www.canva.com/design/DAF1aTXaF8o/ZZGkihgZsJ420ZrI8Ohp7Q/view?utm\_content=DAF1aTXaF8o\&utm\_campaign=designshare\&utm\_medium=link\&utm\_source=editor#19)_._ Evan Thomas PhD, Christina Barstow PhD, Laura MacDonald PhD, John, Ecklum Katie Frankhauser, Alex Johnson
+* Mortenson Center in Global Engineering and Resilience University of Colorado Boulder. [_Greening America’s Rivers: The Potential of Climate Financing for Nature-Based Water Quality Improvement_](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FH1QmzemVpWDCJv0QlPOj%2Fuploads%2FYwFMkoxyXsqkKQptZFqK%2FUS\_Potential\_for\_Climate\_Financed\_Water\_Quality-compressed.pdf?alt=media\&token=62120b47-5b62-4956-9cbf-7739c5f50420)_._ Braden Limb, Jason Quinn, Alex Johnson, Robert B. Sowby, Zia Mehrabi, Evan Thomas. August 10, 2023
+
+***
+
+{% hint style="info" %}
 Participate in the Public Comment [HERE](https://airtable.com/appzrw40tJdLBM2RS/shrHn8lLVSSftTQP6)
 
 Join the more informal Hylo discussion HERE
+{% endhint %}
 
 ## Document History:
 
