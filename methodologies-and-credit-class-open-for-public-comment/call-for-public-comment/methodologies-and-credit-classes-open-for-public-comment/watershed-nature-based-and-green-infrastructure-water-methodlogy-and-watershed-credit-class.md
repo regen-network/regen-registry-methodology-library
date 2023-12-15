@@ -48,9 +48,9 @@ This methodology creates a standardized approach to quantify and verify the emis
 
 **Additional supporting documents and articles by the authors of this methodology and credit class:**
 
-* Research Square Pre-print Article: [_Greening America's Rivers: The Potential of Climate Financing for Nature-Based Water Quality Improvement_](https://www.researchsquare.com/article/rs-3253325/v1)_._ Evan Thomas, Braden Limb, Jason Quinn, Alex Johnson, Rob Sowby, Zia Mehrabi
+* Research Square Pre-print Article: [_Greening America's Rivers: The Potential of Climate Financing for Nature-Based Water Quality Improvement_](https://www.researchsquare.com/article/rs-3253325/v1)_._ Evan Thomas, Braden Limb, Jason Quinn, Alex Johnson, Rob Sowby, Zia Mehrabi. December 8, 2023.
 * Mortenson Center in Global Engineering & Resliience. University of Colorado Boulder. [_Decarbonizing Water: State Trends and Opportunities to Apply the Voluntary Carbon Market Toward Global Water Security_](https://www.canva.com/design/DAF1aTXaF8o/ZZGkihgZsJ420ZrI8Ohp7Q/view?utm\_content=DAF1aTXaF8o\&utm\_campaign=designshare\&utm\_medium=link\&utm\_source=editor#19)_._ Evan Thomas PhD, Christina Barstow PhD, Laura MacDonald PhD, John, Ecklum Katie Frankhauser, Alex Johnson
-* Mortenson Center in Global Engineering and Resilience University of Colorado Boulder. [_Greening America’s Rivers: The Potential of Climate Financing for Nature-Based Water Quality Improvement_](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FH1QmzemVpWDCJv0QlPOj%2Fuploads%2FYwFMkoxyXsqkKQptZFqK%2FUS\_Potential\_for\_Climate\_Financed\_Water\_Quality-compressed.pdf?alt=media\&token=62120b47-5b62-4956-9cbf-7739c5f50420)_._ Braden Limb, Jason Quinn, Alex Johnson, Robert B. Sowby, Zia Mehrabi, Evan Thomas. August 10, 2023
+* Mortenson Center in Global Engineering and Resilience University of Colorado Boulder. [_Greening America’s Rivers: The Potential of Climate Financing for Nature-Based Water Quality Improvement_](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FH1QmzemVpWDCJv0QlPOj%2Fuploads%2FYwFMkoxyXsqkKQptZFqK%2FUS\_Potential\_for\_Climate\_Financed\_Water\_Quality-compressed.pdf?alt=media\&token=62120b47-5b62-4956-9cbf-7739c5f50420)_._ Braden Limb, Jason Quinn, Alex Johnson, Robert B. Sowby, Zia Mehrabi, Evan Thomas. August 10, 2023.
 
 ***
 
