@@ -12,8 +12,6 @@ description: 'Ecosystem Focus: Wetlands'
 
 **Developer:** Virridy
 
-**Sectoral Scope:**&#x20;
-
 **Abstract:**
 
 * **Credit Class**
