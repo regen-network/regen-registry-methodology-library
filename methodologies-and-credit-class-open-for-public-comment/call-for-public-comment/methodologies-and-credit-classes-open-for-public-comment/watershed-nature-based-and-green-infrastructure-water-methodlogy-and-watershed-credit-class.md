@@ -55,7 +55,7 @@ This methodology creates a standardized approach to quantify and verify the emis
 {% hint style="info" %}
 Participate in the Public Comment [HERE](https://airtable.com/appzrw40tJdLBM2RS/shrHn8lLVSSftTQP6)
 
-Join the more informal Hylo discussion HERE
+Join the more informal Hylo discussion [HERE](https://www.hylo.com/post/68482)
 {% endhint %}
 
 ## Document History:
