@@ -2,7 +2,7 @@
 description: 'Ecosystem Focus: Wetlands'
 ---
 
-# Watershed Nature-Based and Green Infrastructure Water Methodology and Watershed Credit Class
+# Copy of Watershed Nature-Based and Green Infrastructure Water Methodology and Watershed Credit Class
 
 ## Overview
 
@@ -38,9 +38,9 @@ This methodology creates a standardized approach to quantify and verify the emis
 
 **Documents for Review for Public Comment:**
 
-{% file src="../../../.gitbook/assets/Regen Watershed Credit Class.docx.pdf" %}
+{% file src="../.gitbook/assets/Regen Watershed Credit Class.docx.pdf" %}
 
-{% file src="../../../.gitbook/assets/Regen Network - Watershed Carbon.docx (1).pdf" %}
+{% file src="../.gitbook/assets/Regen Network - Watershed Carbon.docx (1).pdf" %}
 
 ***
 
@@ -62,29 +62,29 @@ Join the more informal Hylo discussion [HERE](https://www.hylo.com/post/68482)
 
 {% tabs %}
 {% tab title="Initial Submission /Review" %}
-{% file src="../../../.gitbook/assets/Virridy Methodology  & Credit Class (Submitted June 6, 2023).docx.pdf" %}
+{% file src="../.gitbook/assets/Virridy Methodology  & Credit Class (Submitted June 6, 2023).docx.pdf" %}
 
-{% file src="../../../.gitbook/assets/Virridy Methodology Internal Comments_June 2023.pdf" %}
+{% file src="../.gitbook/assets/Virridy Methodology Internal Comments_June 2023.pdf" %}
 
-{% file src="../../../.gitbook/assets/Virridy Credit Class Internal Comments_June 2023.pdf" %}
+{% file src="../.gitbook/assets/Virridy Credit Class Internal Comments_June 2023.pdf" %}
 
-{% file src="../../../.gitbook/assets/Virridy_Comment Revision Report_June 2023.pdf" %}
+{% file src="../.gitbook/assets/Virridy_Comment Revision Report_June 2023.pdf" %}
 
-{% file src="../../../.gitbook/assets/Regen Registry Additional Internal Review Round 1_SB_July, 2023.pdf" %}
+{% file src="../.gitbook/assets/Regen Registry Additional Internal Review Round 1_SB_July, 2023.pdf" %}
 
-{% file src="../../../.gitbook/assets/Virridy_Intial Submission_Comments highlighted.pdf" %}
+{% file src="../.gitbook/assets/Virridy_Intial Submission_Comments highlighted.pdf" %}
 
 
 {% endtab %}
 
 {% tab title="Internal Review 2" %}
-{% file src="../../../.gitbook/assets/Methodology_Watershed Carbon_July 12th Version.pdf" %}
+{% file src="../.gitbook/assets/Methodology_Watershed Carbon_July 12th Version.pdf" %}
 
-{% file src="../../../.gitbook/assets/Methodology Internal Comments_Virridy July 12, 2023.pdf" %}
+{% file src="../.gitbook/assets/Methodology Internal Comments_Virridy July 12, 2023.pdf" %}
 
-{% file src="../../../.gitbook/assets/Virridy Watershed Credit Class_July 12, 2023.pdf" %}
+{% file src="../.gitbook/assets/Virridy Watershed Credit Class_July 12, 2023.pdf" %}
 
-{% file src="../../../.gitbook/assets/Virridy_Credit Class Internal Comments_July 2023.pdf" %}
+{% file src="../.gitbook/assets/Virridy_Credit Class Internal Comments_July 2023.pdf" %}
 
 
 {% endtab %}
@@ -96,31 +96,31 @@ ROUND 1
 
 **Reviewer #1**
 
-{% file src="../../../.gitbook/assets/Reviewer #1_Credit Class Comment Revision Report_w Virridy Responses.pdf" %}
+{% file src="../.gitbook/assets/Reviewer #1_Credit Class Comment Revision Report_w Virridy Responses.pdf" %}
 
-{% file src="../../../.gitbook/assets/Reviewer #1_Methodology Comment Revision Report w Virridy Response.pdf" %}
+{% file src="../.gitbook/assets/Reviewer #1_Methodology Comment Revision Report w Virridy Response.pdf" %}
 
 **Reviewer #2**
 
-{% file src="../../../.gitbook/assets/Reviewer #2_Credit Class Comment Revision Report w Virridy Response.pdf" %}
+{% file src="../.gitbook/assets/Reviewer #2_Credit Class Comment Revision Report w Virridy Response.pdf" %}
 
-{% file src="../../../.gitbook/assets/Reviewer #2_Methodology Comment Revision Report w Virridy Responses.pdf" %}
+{% file src="../.gitbook/assets/Reviewer #2_Methodology Comment Revision Report w Virridy Responses.pdf" %}
 
 Reviewer #3
 
-{% file src="../../../.gitbook/assets/Reviewer #3_Credit Class Revision Report.pdf" %}
+{% file src="../.gitbook/assets/Reviewer #3_Credit Class Revision Report.pdf" %}
 
-{% file src="../../../.gitbook/assets/Reviewer #3_Methodology Revision Report.pdf" %}
+{% file src="../.gitbook/assets/Reviewer #3_Methodology Revision Report.pdf" %}
 
 UPDATED DOCUMENTS AFTER ROUND 1
 
-{% file src="../../../.gitbook/assets/Credit Class Redline_Post Round 1.pdf" %}
+{% file src="../.gitbook/assets/Credit Class Redline_Post Round 1.pdf" %}
 
-{% file src="../../../.gitbook/assets/Regen Watershed Credit Class Post Peer Review.pdf" %}
+{% file src="../.gitbook/assets/Regen Watershed Credit Class Post Peer Review.pdf" %}
 
-{% file src="../../../.gitbook/assets/Methodology Redline_Post Round 1.pdf" %}
+{% file src="../.gitbook/assets/Methodology Redline_Post Round 1.pdf" %}
 
-{% file src="../../../.gitbook/assets/Regen Network - Watershed Carbon Post Peer Review.docx.pdf" %}
+{% file src="../.gitbook/assets/Regen Network - Watershed Carbon Post Peer Review.docx.pdf" %}
 {% endtab %}
 
 {% tab title="Expert Review Round 2" %}
@@ -128,21 +128,21 @@ ROUND 2 REVISION REPORTS WITH UPDATED COMMENTS
 
 Reviewer #1
 
-{% file src="../../../.gitbook/assets/Reviewer #1_Second Round_Credit Class Comment Revision Report_w Virridy Responses.pdf" %}
+{% file src="../.gitbook/assets/Reviewer #1_Second Round_Credit Class Comment Revision Report_w Virridy Responses.pdf" %}
 
-{% file src="../../../.gitbook/assets/Reviewer #1_Second Round_Methodology Comment Revision Report w Virridy Response.pdf" %}
+{% file src="../.gitbook/assets/Reviewer #1_Second Round_Methodology Comment Revision Report w Virridy Response.pdf" %}
 
 Reviewer #2
 
-{% file src="../../../.gitbook/assets/Reviewer #2_Round 2_Credit Class Comment Revision Report w Virridy Response.pdf" %}
+{% file src="../.gitbook/assets/Reviewer #2_Round 2_Credit Class Comment Revision Report w Virridy Response.pdf" %}
 
-{% file src="../../../.gitbook/assets/Reviewer #2_Round 2_Methodology Comment Revision Report w Virridy Responses.pdf" %}
+{% file src="../.gitbook/assets/Reviewer #2_Round 2_Methodology Comment Revision Report w Virridy Responses.pdf" %}
 
 Reviewer #3
 
-{% file src="../../../.gitbook/assets/Reviewer #3_Round 2_Credit Class Revision Report.pdf" %}
+{% file src="../.gitbook/assets/Reviewer #3_Round 2_Credit Class Revision Report.pdf" %}
 
-{% file src="../../../.gitbook/assets/Reviewer #3_Round 2_Methodology Revision Report.pdf" %}
+{% file src="../.gitbook/assets/Reviewer #3_Round 2_Methodology Revision Report.pdf" %}
 
 
 {% endtab %}
