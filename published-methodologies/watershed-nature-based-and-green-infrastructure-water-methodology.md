@@ -18,7 +18,7 @@ This methodology creates a standardized approach to quantify and verify the emis
 
 ***
 
-**Documents for Review for Public Comment:**
+**Final Version Published January 18, 2024:**
 
 {% file src="../.gitbook/assets/Regen Network - Watershed Carbon.docx (1).pdf" %}
 
