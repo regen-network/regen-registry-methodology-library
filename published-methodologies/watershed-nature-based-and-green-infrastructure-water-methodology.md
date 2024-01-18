@@ -96,6 +96,10 @@ Reviewer #3
 
 {% file src="../.gitbook/assets/Reviewer #3_Round 2_Methodology Revision Report.pdf" %}
 
+PUBLIC COMMENT REVISION REPORT
+
+{% file src="../.gitbook/assets/Virridy_Public Comment Revision Report_Jan 2024.pdf" %}
+
 
 {% endtab %}
 {% endtabs %}
