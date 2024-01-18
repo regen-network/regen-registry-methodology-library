@@ -26,7 +26,7 @@ For energy this would be the corresponding energy savings multiplied by the aver
 
 ***
 
-**Documents for Review for Public Comment:**
+**Final Version - Published January 18, 2023**
 
 {% file src="../.gitbook/assets/Regen Watershed Credit Class.docx.pdf" %}
 
