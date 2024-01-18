@@ -9,7 +9,7 @@
 * [Methodology for Grazing in Vineyard Systems, v1.0](published-methodologies/methodology-for-grazing-in-vineyard-systems-v1.0.md)
 * [Soil Organic Carbon Estimation in Regenerative Cropping & Managed Grassland Ecosystems](published-methodologies/soil-organic-carbon-estimation-in-regenerative-cropping-and-managed-grassland-ecosystems.md)
 * [Watershed Nature-Based and Green Infrastructure Water Methodology](published-methodologies/watershed-nature-based-and-green-infrastructure-water-methodology.md)
-* [Copy of Watershed Nature-Based and Green Infrastructure Water Methodology and Watershed Credit Class](published-methodologies/copy-of-watershed-nature-based-and-green-infrastructure-water-methodology-and-watershed-credit-class.md)
+* [Watershed Credit Class](published-methodologies/watershed-credit-class.md)
 
 ## Methodologies Coming Soon
 
