@@ -8,4 +8,3 @@ description: >-
 
 ## **Currently Open for Public Comment**
 
-[Watershed Nature-Based and Green Infrastructure Water Methodology and Watershed Credit Class](../../published-methodologies/watershed-nature-based-and-green-infrastructure-water-methodology.md)
