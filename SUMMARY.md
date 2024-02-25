@@ -9,10 +9,9 @@
 * [Methodology for Grazing in Vineyard Systems, v1.0](published-methodologies/methodology-for-grazing-in-vineyard-systems-v1.0.md)
 * [Soil Organic Carbon Estimation in Regenerative Cropping & Managed Grassland Ecosystems](published-methodologies/soil-organic-carbon-estimation-in-regenerative-cropping-and-managed-grassland-ecosystems.md)
 * [Watershed Nature-Based and Green Infrastructure Water Methodology](published-methodologies/watershed-nature-based-and-green-infrastructure-water-methodology.md)
+* [ERA Brazil Methodology for Biodiversity Stewardship Credit](published-methodologies/era-brazil-methodology-for-biodiversity-stewardship-credit.md)
 
 ## Methodologies Coming Soon
-
-* [ERA Brazil Methodology for Biodiversity Stewardship Credit](methodologies-coming-soon/era-brazil-methodology-for-biodiversity-stewardship-credit.md)
 
 ## Methodologies and Credit Class Open for Public Comment
 
