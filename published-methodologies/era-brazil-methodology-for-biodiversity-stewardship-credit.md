@@ -20,9 +20,11 @@ To apply this Methodology to a specific biodiversity conservation project, it is
 
 Methodology:
 
-{% file src="../.gitbook/assets/US Guideline_Brazil Jaguar_R JAN 2024.docx" %}
 
-Umbrella Species Guidline:
+
+{% file src="../.gitbook/assets/ERA Biodiversity Methodology_R JAN 2024.pdf" %}
+
+Umbrella Species Guideline:
 
 {% file src="../.gitbook/assets/US Guideline_Brazil Jaguar_JAN 2024.pdf" %}
 
