@@ -20,15 +20,19 @@ To apply this Methodology to a specific biodiversity conservation project, it is
 
 Methodology:
 
-
-
 {% file src="../.gitbook/assets/ERA Biodiversity Methodology_R JAN 2024.pdf" %}
 
 Umbrella Species Guideline:
 
 {% file src="../.gitbook/assets/US Guideline_Brazil Jaguar_JAN 2024.pdf" %}
 
+Templates:
 
+
+
+{% file src="../.gitbook/assets/US Guideline Template_Brazil Jaguar_R March 2024.docx" %}
+
+{% file src="../.gitbook/assets/ERA Biodiversity Credit Simulation Template_R NOV 2023.xlsx" %}
 
 ## Document History
 
@@ -43,6 +47,8 @@ The initial submission was a Biodiversity Methodology for Keystone Species Stewa
 {% file src="../.gitbook/assets/18.06.2022 Biodiversity Methodology.docx.pdf" %}
 
 {% file src="../.gitbook/assets/18_06_2022_Keystone Species Guideline_Jaguar.docx.pdf" %}
+
+{% file src="../.gitbook/assets/Grazing in Vineyard Systems Methodology v1.0.pdf" %}
 {% endtab %}
 
 {% tab title="Internal Review" %}
@@ -106,7 +112,7 @@ Expert Peer Review Feedback:
 
 {% file src="../.gitbook/assets/US Guideline_Jaguar_R NOV 2023.docx" %}
 
-{% file src="../.gitbook/assets/ERA Biodiversity Credit Simulation Template_R NOV 2023.xlsx" %}
+{% file src="../.gitbook/assets/ERA Biodiversity Credit Simulation Template_R NOV 2023 (1).xlsx" %}
 
 ### **Tracked changes for final Versions - Jan 2024**
 
