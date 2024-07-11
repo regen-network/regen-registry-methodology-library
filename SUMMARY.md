@@ -17,4 +17,4 @@
 
 * [Call for Public Comment](methodologies-and-credit-class-open-for-public-comment/call-for-public-comment/README.md)
   * [Methodologies and Credit Classes Open for Public Comment](methodologies-and-credit-class-open-for-public-comment/call-for-public-comment/methodologies-and-credit-classes-open-for-public-comment/README.md)
-    * [Ecometric New Version 1.2 of Methodology Proposal for Soil Organic Carbon Estimation in Regenerative](methodologies-and-credit-class-open-for-public-comment/call-for-public-comment/methodologies-and-credit-classes-open-for-public-comment/ecometric-new-version-1.2-of-methodology-proposal-for-soil-organic-carbon-estimation-in-regenerative.md)
+    * [Ecometric Updated Methodology Proposal for Soil Organic Carbon Estimation in Regenerative v 1.2.2](methodologies-and-credit-class-open-for-public-comment/call-for-public-comment/methodologies-and-credit-classes-open-for-public-comment/ecometric-updated-methodology-proposal-for-soil-organic-carbon-estimation-in-regenerative-v-1.2.2.md)
