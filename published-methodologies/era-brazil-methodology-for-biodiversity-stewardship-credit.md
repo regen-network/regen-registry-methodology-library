@@ -1,6 +1,6 @@
 # ERA Brazil Methodology for Biodiversity Stewardship Credit
 
-## Overview
+Overview
 
 **Methodology Name**: Biodiversity Stewardship Credit Methodology: Protocol for Ideation, Implementation & Monitoring
 
@@ -20,19 +20,23 @@ To apply this Methodology to a specific biodiversity conservation project, it is
 
 Methodology:
 
-{% file src="../.gitbook/assets/ERA Biodiversity Methodology_R JAN 2024.pdf" %}
+{% file src="../.gitbook/assets/ERA Biodiversity Methodology_R March 2024.pdf" %}
 
 Umbrella Species Guideline:
 
-{% file src="../.gitbook/assets/US Guideline_Brazil Jaguar_JAN 2024.pdf" %}
+{% file src="../.gitbook/assets/US Guideline_Brazil Jaguar_R March 2024 (1).pdf" %}
 
 Templates:
 
 
 
+{% file src="../.gitbook/assets/Monitoring Template_R March 2024.docx" %}
+
+{% file src="../.gitbook/assets/Project Plan Template_R March 2024.docx.pdf" %}
+
 {% file src="../.gitbook/assets/US Guideline Template_Brazil Jaguar_R March 2024.docx" %}
 
-{% file src="../.gitbook/assets/ERA Biodiversity Credit Simulation Template_R NOV 2023.xlsx" %}
+{% file src="../.gitbook/assets/ERA Biodiversity Credit Simulation Template_R2 April 2024.xlsx" %}
 
 ## Document History
 
@@ -112,7 +116,7 @@ Expert Peer Review Feedback:
 
 {% file src="../.gitbook/assets/US Guideline_Jaguar_R NOV 2023.docx" %}
 
-{% file src="../.gitbook/assets/ERA Biodiversity Credit Simulation Template_R NOV 2023 (1).xlsx" %}
+{% file src="../.gitbook/assets/ERA Biodiversity Credit Simulation Template_R NOV 2023 (1) (1).xlsx" %}
 
 ### **Tracked changes for final Versions - Jan 2024**
 
