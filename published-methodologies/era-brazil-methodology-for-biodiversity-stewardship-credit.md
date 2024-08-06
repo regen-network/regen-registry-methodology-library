@@ -43,7 +43,7 @@ Templates:
 Historical versions that can be viewed to understand the process of reviews and updates that have happened with this methodology.
 
 {% tabs %}
-{% tab title="Initial Submission" %}
+{% tab title="Iniital Submission" %}
 ### Initial Submissions
 
 The initial submission was a Biodiversity Methodology for Keystone Species Stewardship submitted on June 18, 2022.  An additional Keystone Species Guideline focusing on the Jaguar as an example was also submitted.
@@ -52,7 +52,7 @@ The initial submission was a Biodiversity Methodology for Keystone Species Stewa
 
 {% file src="../.gitbook/assets/18_06_2022_Keystone Species Guideline_Jaguar.docx.pdf" %}
 
-{% file src="../.gitbook/assets/Grazing in Vineyard Systems Methodology v1.0.pdf" %}
+
 {% endtab %}
 
 {% tab title="Internal Review" %}
@@ -127,6 +127,8 @@ Expert Peer Review Feedback:
 
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
