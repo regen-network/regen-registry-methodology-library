@@ -28,9 +28,7 @@ Update V1.2.2 of the ecometric Methodology for Soil Organic Carbon Estimation in
 
 
 
-{% file src="../.gitbook/assets/Ecometric Methodology Proposal Doc ID 0044_Final_Post-External Peer Review.pdf" %}
 
-Contribute to the informal public discussion forum on [Hylo](https://www.hylo.com/groups/regen-registry-public-comment/post/57001)
 
 ## Document History
 
@@ -139,5 +137,15 @@ Submission Date: November 22, 2022
 Final Version&#x20;
 
 {% file src="../.gitbook/assets/Ecometric Methodology Proposal Doc ID 0044_Final_Post-External Peer Review.pdf" %}
+{% endtab %}
+
+{% tab title="Updates" %}
+Updated Version Tracked Changes:
+
+{% file src="../.gitbook/assets/Ecometric Methodology Update_ID0044 V1.2.2_Tracked.pdf" %}
+
+Internal Review:
+
+{% file src="../.gitbook/assets/Ecometric - Methodology Update Internal Review May 10 - June11.docx.pdf" %}
 {% endtab %}
 {% endtabs %}
