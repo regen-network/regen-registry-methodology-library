@@ -15,6 +15,19 @@ This methodology protocol proposes the use of remotely sensed multispectral imag
 
 Soil contains approximately 2344 Gt of organic carbon globally and is the largest terrestrial pool of organic carbon (Stockmann et al., 2013). Small changes in the soil organic carbon stock could result in significant impacts on the atmospheric carbon concentration. By monitoring the carbon levels in the soil, farmers and landowners will be able to measure the impact of their stewardship.
 
+
+
+## Summary of Methodology Update:
+
+Update V1.2.2 of the ecometric Methodology for Soil Organic Carbon Estimation in Regenerative Cropping and Managed Grassland Ecosystems proposes the following changes:
+
+* The inclusion of Loss on Ignition laboratory test in geographies where there is no regional availability of DUMAS testing.
+* Using a sampling simulation based on the estimated SOC value range within a Project Area to calculate and report sampling uncertainty for a range of Compact Geographic Stratification strata sizes, for each monitoring round.   This tool will be used to balance sampling uncertainty with sampling cost on large project areas and to transparently report the uncertainty associated with the selected sampling density for verifiers and auditors.
+
+## Updated Version:
+
+
+
 {% file src="../.gitbook/assets/Ecometric Methodology Proposal Doc ID 0044_Final_Post-External Peer Review.pdf" %}
 
 Contribute to the informal public discussion forum on [Hylo](https://www.hylo.com/groups/regen-registry-public-comment/post/57001)
