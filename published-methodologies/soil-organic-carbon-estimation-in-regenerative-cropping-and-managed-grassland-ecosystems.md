@@ -26,9 +26,7 @@ Update V1.2.2 of the ecometric Methodology for Soil Organic Carbon Estimation in
 
 ## Updated Version:
 
-
-
-
+{% file src="../.gitbook/assets/Ecometric Methodology Update ID0044 V1.2.2_Final (1).pdf" %}
 
 ## Document History
 
@@ -140,7 +138,7 @@ Final Version&#x20;
 {% endtab %}
 
 {% tab title="Updates" %}
-Updated Version Tracked Changes:
+Updated Version 2024 -Tracked Changes :
 
 {% file src="../.gitbook/assets/Ecometric Methodology Update_ID0044 V1.2.2_Tracked.pdf" %}
 
