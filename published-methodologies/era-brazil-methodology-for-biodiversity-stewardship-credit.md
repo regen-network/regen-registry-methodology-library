@@ -4,17 +4,15 @@ Overview
 
 **Methodology Name**: Biodiversity Stewardship Credit Methodology: Protocol for Ideation, Implementation & Monitoring
 
-**Developer:** ERA CARBON SERVIÇOS AMBIENTAIS LTDA.
+**Developer:** Ecosystem Regeneration Associates (ERA)
 
 **Sectoral Scope:** Agriculture, Forestry, and Other Land Use
 
 **Abstract:**
 
-The ERA Brazil Methodology for Biodiversity Stewardship Credit (henceforth called the “Methodology”) provides a holistic assessment of ecological state indicators as well as practice-based indicators to incentivize the maintenance of conservation areas, crucial for the perennity and resilience of wildlife and biodiversity.
+This crediting protocol guides landholders to become biodiversity stewards by applying interventions (project activities) that generate positive outcomes for the selected Umbrella Species and ecosystem under management. Landholders must evaluate and monitor umbrella species health, habitat quality and understand the local challenges and disturbances to establish a set of interventions that will be applied over the lifetime of the project. These interventions are established using the Theory of Change framework whereby the long-term goals are defined, as well as the desired outcomes, the interventions and the indicators.
 
-This Methodology sets the basis for the continuous monitoring of Umbrella Species on a specific Project Time Frame, which, coupled with Environmental Stewardship indicators, creates a favorable net outcome for the chosen Umbrella Species (US) and the whole ecosystem under management.
-
-To apply this Methodology to a specific biodiversity conservation project, it is necessary to produce and submit evidence of the presence of the chosen Umbrella Species in the Property Area as demonstrated in the document US Guideline using jaguars as the example of the identified Umbrella species.
+To apply this crediting protocol to a biodiversity conservation project, it is necessary to submit evidence of the presence of the chosen Umbrella Species in the Property Area, through monitoring methods such as camera traps, footprints, bioacoustics, eDNA, etc. Data and evidence must be collected and exhibited in the Monitoring Reports along with the adoption and implementation of the project interventions. The price of the credit is defined by the cost of conservation, meaning the annual costs of the interventions adopted. These costs must be transparently reported in the Monitoring Reports. These Monitoring Reports will be verified by an external auditor to ensure all procedures have been followed in accordance with the standards.
 
 ### FINAL VERSIONS:
 
