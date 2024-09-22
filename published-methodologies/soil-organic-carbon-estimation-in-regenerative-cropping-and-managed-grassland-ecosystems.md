@@ -137,7 +137,7 @@ Final Version&#x20;
 {% file src="../.gitbook/assets/Ecometric Methodology Proposal Doc ID 0044_Final_Post-External Peer Review.pdf" %}
 {% endtab %}
 
-{% tab title="Updates" %}
+{% tab title="Version Update" %}
 Updated Version 2024 -Tracked Changes :
 
 {% file src="../.gitbook/assets/Ecometric Methodology Update_ID0044 V1.2.2_Tracked.pdf" %}
