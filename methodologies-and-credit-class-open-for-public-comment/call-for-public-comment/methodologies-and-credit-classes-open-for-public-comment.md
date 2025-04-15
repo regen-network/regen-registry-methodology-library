@@ -9,7 +9,7 @@ description: >-
 ## **Currently Open for Public Comment**
 
 **AEI has submitted "Regenerative Soil Organic Carbon Methodology**\
-**for Rangeland, Grassland, Agricultural, and Conservation Lands**_**V2.0"**_**&#x20;for Public Comment**_**.**_
+**for Rangeland, Grassland, Agricultural, and Conservation Lands**_**V2.0"**_**&#x20;for Public Comment through April May 1, 2025**
 
 The Regenerative Standard Version 2.0 is released by Applied Ecological Institute.
 
@@ -23,14 +23,14 @@ Please reply with comments that you would like responses to in the [Public Comme
 
 Those interested in participating in an active and real time responsive discussion can visit the [Hylo Public Comment](https://www.hylo.com/groups/regen-registry-public-comment/join/G549Lq59PT) page.
 
-{% file src="../../../.gitbook/assets/20-04-14 Cover letter re V2.pdf" %}
+{% file src="../../.gitbook/assets/20-04-14 Cover letter re V2.pdf" %}
 Letter outlining changes made to the Standard post final Expert Peer Review
 {% endfile %}
 
-{% file src="../../../.gitbook/assets/RegenerativeStandardSOC_V2.0_20250410_clean.docx" %}
+{% file src="../../.gitbook/assets/RegenerativeStandardSOC_V2.0_20250410_clean.docx" %}
 Clean Version of Standard for Review
 {% endfile %}
 
-{% file src="../../../.gitbook/assets/The Regenerative Standard redline v2-v1.docx" %}
+{% file src="../../.gitbook/assets/The Regenerative Standard redline v2-v1.docx" %}
 Redlined version post final Expert Peer Reveiw
 {% endfile %}
