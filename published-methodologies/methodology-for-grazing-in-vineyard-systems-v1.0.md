@@ -28,13 +28,13 @@ Historical versions that can be viewed to understand the process of reviews and 
 
 ### Review Documents
 
-**Round 1: **_**Revision Report**_
+**Round 1:&#x20;**_**Revision Report**_
 
 {% file src="../.gitbook/assets/GrazinginVineyardSystems_revision_report_R1.pdf" %}
 Submission Date: July 20, 2022
 {% endfile %}
 
-**Round 2: **_**Updated Submission and Expert Review Revision Report**_
+**Round 2:&#x20;**_**Updated Submission and Expert Review Revision Report**_
 
 {% file src="../.gitbook/assets/GrazingInVineyardSystemsMethodology_R2 (1).pdf" %}
 

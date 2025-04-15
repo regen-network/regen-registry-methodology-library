@@ -64,7 +64,7 @@ _Date: July 11, 2022 - May 5, 2023_
 
 ### Review Documents
 
-**Round 1: **_**ERABrazil Biodiversity Methodology for Keystone Species Stewardship**_
+**Round 1:&#x20;**_**ERABrazil Biodiversity Methodology for Keystone Species Stewardship**_
 
 {% file src="../.gitbook/assets/ERA Internal Review Feedack Form_July 2022.pdf" %}
 Submission Date: July 20, 2022
@@ -72,7 +72,7 @@ Submission Date: July 20, 2022
 
 [ERA Biodiversity Methodology with Inline Comments](https://docs.google.com/document/d/1WKOjRJpVHcVgR0LbAWdcmbEBcSpYy1Px/edit?rtpof=true\&sd=true)[ and Revisions](https://docs.google.com/document/d/1xylAOk9OQGEt41vagyeYZmYHEXqSbgCb/edit?usp=sharing\&ouid=111465088026028835977\&rtpof=true\&sd=true)
 
-**Round 2: Title Updated to **_**Methodology for Biodiversity Stewardship Tokens**_
+**Round 2: Title Updated to&#x20;**_**Methodology for Biodiversity Stewardship Tokens**_
 
 {% file src="../.gitbook/assets/ERA Biodiversity Methodology 17.11.22.docx.pdf" %}
 

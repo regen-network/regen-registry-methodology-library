@@ -8,7 +8,7 @@ description: 'Ecosystem Focus: Grasslands, Shrubland, Pastureland'
 
 **Methodology Name**: _CarbonPlus Methodology for Grazing Systems v1.0_
 
-**Credit Class Name**_: C_arbon_Plus_ GHG & Co-Benefits in Grazing Systems&#x20;
+**Credit Class Name**_: &#x43;_&#x61;rbo&#x6E;_&#x50;lus_ GHG & Co-Benefits in Grazing Systems&#x20;
 
 **Developer:** Regen Network Development PBC- Science Team
 
@@ -16,7 +16,7 @@ description: 'Ecosystem Focus: Grasslands, Shrubland, Pastureland'
 
 **Abstract:**
 
-The “Carbon_Plus_ Methodology for Grazing Systems 1.0” is a measurement-based approach coupled with remote sensing data analysis that can be used to monitor the changes in SOC stocks and co-benefits over time, to generate carbon credits.
+The “Carbo&#x6E;_&#x50;lus_ Methodology for Grazing Systems 1.0” is a measurement-based approach coupled with remote sensing data analysis that can be used to monitor the changes in SOC stocks and co-benefits over time, to generate carbon credits.
 
 This methodology was developed in-house by the Regen Science Team, addressing challenges and experiences from several stakeholders, including land stewards, methodology developers, soil scientists, project developers, and other experts in the space of VCMs.
 
@@ -28,7 +28,7 @@ Version 1.0 of the methodology has gone through an exhaustive formal peer review
 
 Coupled with this methodology, the updated "CarbonPlus GHG & Co-Benefits in Grazing Systems Credit Class" is also open for public comment and outlines the more programmatic requirements of the data collection and credit creation process.  There were no additional expert reviews of this document in this round of revisions.
 
-The upgraded “Carbon_Plus_ GHG & Co-Benefits in Grazing Systems Credit Class” now includes lessons learned from these last 5 years from the VCMs, to make credits more robust and market accepted. This version has a more comprehensive additionality definition and also restricts the lookback period to 5 years, formerly 10. The language and definitions throughout the document have also been improved.
+The upgraded “Carbo&#x6E;_&#x50;lus_ GHG & Co-Benefits in Grazing Systems Credit Class” now includes lessons learned from these last 5 years from the VCMs, to make credits more robust and market accepted. This version has a more comprehensive additionality definition and also restricts the lookback period to 5 years, formerly 10. The language and definitions throughout the document have also been improved.
 
 
 
