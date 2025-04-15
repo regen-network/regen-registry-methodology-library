@@ -9,9 +9,9 @@ description: >-
 ## **Currently Open for Public Comment**
 
 **AEI has submitted "Regenerative Soil Organic Carbon Methodology**\
-**for Rangeland, Grassland, Agricultural, and Conservation Lands**_**V2.0"**_**&#x20;for Public Comment through April May 1, 2025**
+**for Rangeland, Grassland, Agricultural, and Conservation Lands**_**V2.0"**_**&#x20;for Public Comment.  Comments can be submitted through May 1, 2025**
 
-The Regenerative Standard Version 2.0 is released by Applied Ecological Institute.
+
 
 The Regenerative Standard has been adopted by Developers on over one million acres as the standard to capture carbon sequestration through regenerative grassland grazing. Version 1.0 was designed to be an on-ramp for ranchers and farmers to gain familiarity with and contribute to global climate mitigation benefits, designed around a rolling 5 year contract period that pays annually for crediting, and requires a 10 yr monitoring tail. Version 1.0 will remain in place as approved to serve the large and growing user-base of acreages registered under this version.&#x20;
 
