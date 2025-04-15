@@ -26,7 +26,3 @@ At the conclusion of the public comment period, comments are compiled into a rep
 {% content-ref url="methodologies-and-credit-classes-open-for-public-comment/" %}
 [methodologies-and-credit-classes-open-for-public-comment](methodologies-and-credit-classes-open-for-public-comment/)
 {% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
