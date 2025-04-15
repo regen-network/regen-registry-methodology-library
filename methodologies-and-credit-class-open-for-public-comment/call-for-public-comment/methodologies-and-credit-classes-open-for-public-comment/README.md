@@ -21,6 +21,8 @@ TRS 2.0 credits are enrolled by a project developer and managed through Natureâ€
 
 Please reply with comments that you would like responses to in the [Public Comment Response Form](https://airtable.com/appzrw40tJdLBM2RS/shrHn8lLVSSftTQP6).
 
+Those interested in participating in an active and real time responsive discussion can visit the [Hylo Public Comment](https://www.hylo.com/groups/regen-registry-public-comment/join/G549Lq59PT) page.
+
 {% file src="../../../.gitbook/assets/20-04-14 Cover letter re V2.pdf" %}
 Letter outlining changes made to the Standard post final Expert Peer Review
 {% endfile %}
