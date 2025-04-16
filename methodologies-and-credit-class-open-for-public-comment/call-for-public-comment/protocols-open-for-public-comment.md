@@ -4,7 +4,7 @@ description: >-
   Registry
 ---
 
-# Methodologies and Credit Classes Open for Public Comment
+# Protocols Open for Public Comment
 
 ## **Currently Open for Public Comment**
 
@@ -21,7 +21,7 @@ TRS V2.0 credits are enrolled by a project developer and managed through Natureâ
 
 Please reply with comments that you would like responses to in the [Public Comment Response Form](https://airtable.com/appzrw40tJdLBM2RS/shrHn8lLVSSftTQP6).
 
-Those interested in participating in an active and real time responsive discussion can visit the [Hylo Public Comment](https://www.hylo.com/groups/regen-registry-public-comment/join/G549Lq59PT) page.
+Those interested in participating in an active and real time responsive discussion can visit the [Hylo Public Comment](https://www.hylo.com/groups/regen-methodology-development/events/post/86351) page.
 
 {% file src="../../.gitbook/assets/20-04-14 Cover letter re V2.pdf" %}
 Letter outlining changes made to TRS V1.0 post final Expert Peer Review
@@ -32,5 +32,5 @@ Clean Version of TRS V2.0 for Review
 {% endfile %}
 
 {% file src="../../.gitbook/assets/The Regenerative Standard redline v2-v1.docx" %}
-Redlined copy of TRS v1.0 post final Expert Peer Reveiw
+Redlined copy of TRS V1.0 post final Expert Peer Reveiw
 {% endfile %}
