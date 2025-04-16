@@ -16,4 +16,4 @@
 ## Methodologies and Credit Class Open for Public Comment
 
 * [Call for Public Comment](methodologies-and-credit-class-open-for-public-comment/call-for-public-comment/README.md)
-  * [Methodologies and Credit Classes Open for Public Comment](methodologies-and-credit-class-open-for-public-comment/call-for-public-comment/methodologies-and-credit-classes-open-for-public-comment.md)
+  * [Protocols Open for Public Comment](methodologies-and-credit-class-open-for-public-comment/call-for-public-comment/protocols-open-for-public-comment.md)

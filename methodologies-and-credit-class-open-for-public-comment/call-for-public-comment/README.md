@@ -23,6 +23,6 @@ To submit your comments, submit the [Public Comment Submission Form](https://air
 
 At the conclusion of the public comment period, comments are compiled into a report and sent to the Methodology Developer, who then has 30 days to respond to comments in writing and incorporate relevant feedback to a revised version, which is then posted on the methodology page.  If there are major concerns that cannot be confidently resolved within Regen Registry, input from the expert community will be requested. Also, some clarification might be requested from the commenters when necessary.
 
-{% content-ref url="methodologies-and-credit-classes-open-for-public-comment.md" %}
-[methodologies-and-credit-classes-open-for-public-comment.md](methodologies-and-credit-classes-open-for-public-comment.md)
+{% content-ref url="protocols-open-for-public-comment.md" %}
+[protocols-open-for-public-comment.md](protocols-open-for-public-comment.md)
 {% endcontent-ref %}
