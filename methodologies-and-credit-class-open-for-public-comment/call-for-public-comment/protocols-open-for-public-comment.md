@@ -16,6 +16,6 @@ This methodology uses the [GHG & Co-Benefits in Watershed Carbon v1.0](https://w
 
 Please reply with comments that you would like responses to in the [Public Comment Response Form](https://airtable.com/appzrw40tJdLBM2RS/shrHn8lLVSSftTQP6).
 
-Those interested in participating in an active and real time responsive discussion can visit the [Hylo Public Comment](https://www.hylo.com/groups/regen-methodology-development/events/post/86351) page.
+Those interested in participating in an active and real time responsive discussion can visit the [Hylo Public Comment](../../) page.
 
 {% file src="../../.gitbook/assets/Public Comment Copy_Algae-based Nutrient Removal Protocol_250807.pdf" %}
