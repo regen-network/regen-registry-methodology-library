@@ -13,7 +13,7 @@ The Public Comment period for each methodology and credit class is 15-days. Duri
 * Are the sampling and measurement protocols robust?
 * Are there any alternative or additional steps that should be considered?
 
-During the Public Comment process, we encourage public discourse around the methodology . Those interested in participating in an active and real time responsive discussion can visit the [Hylo Public Comment](https://www.hylo.com/groups/regen-registry-public-comment/join/G549Lq59PT) page.
+During the Public Comment process, we encourage public discourse around the methodology . Those interested in participating in an active and real time responsive discussion can visit the Hylo Public Comment thread that is linked in each specific Public Comment announcement.
 
 ### How to Submit Comments
 
