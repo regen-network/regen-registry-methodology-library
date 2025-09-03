@@ -8,7 +8,7 @@ description: >-
 
 ## **Currently Open for Public Comment**
 
-Crop Intellect has developed the Atmospheric nitrous oxide (N2O) destruction using Photocatalysts Methdology. This methodology quantifies the destruction of atmospheric nitrous oxide (N₂O) through the application of photocatalytic technologies on crop surfaces. It is designed for project activities that destroy ambient N₂O concentrations by converting it into inert nitrogen (N₂) and oxygen (O₂) via photocatalysis under natural light conditions.
+Crop Intellect has developed the _Atmospheric Nitrous Oxide (N2O) Destruction Using Photocatalysts Methodology_. This methodology quantifies the destruction of atmospheric nitrous oxide (N₂O) through the application of photocatalytic technologies on crop surfaces. It is designed for project activities that destroy ambient N₂O concentrations by converting it into inert nitrogen (N₂) and oxygen (O₂) via photocatalysis under natural light conditions.
 
 Photocatalysis is a well-established chemical process, and this methodology supports the use of photocatalysts that can function under visible light. The methodology is technology-agnostic and may be applied to any photocatalytic formulation capable of breaking down N₂O under field conditions.
 
