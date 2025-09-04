@@ -24,4 +24,6 @@ This methodology had also been reviewed and validated by SustainCert as well.
 
 Please reply with comments that you would like responses to in the [Public Comment Response Form](https://airtable.com/appzrw40tJdLBM2RS/shrHn8lLVSSftTQP6) by September 18th.
 
+For converstaions about this please visit our [Hylo](https://www.hylo.com/groups/regen-methodology-development/chat/general/post/93516) page
+
 {% file src="../../.gitbook/assets/M-ICR011 v1.3 by Crop Intellect.pdf" %}
