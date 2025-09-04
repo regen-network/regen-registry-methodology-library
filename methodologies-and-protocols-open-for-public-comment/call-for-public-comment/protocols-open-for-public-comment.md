@@ -20,10 +20,8 @@ Permanence of the emission destruction is ensured by the irreversible breakdown 
 
 This approach enables scalable and verifiable greenhouse gas mitigation from agricultural lands through direct atmospheric N₂O destruction.
 
-This methodology had also been reviewed and certified by the [International Carbon Registry](https://documentation.carbonregistry.com/documentation/icr-program/methodology-development/icr-methodologies/approved-icr-methodologies/m-icr011) and SustainCert.
+This methodology had also been reviewed and validated by SustainCert as well.
 
 Please reply with comments that you would like responses to in the [Public Comment Response Form](https://airtable.com/appzrw40tJdLBM2RS/shrHn8lLVSSftTQP6) by September 18th.
-
-Those interested in participating in an active and real time responsive discussion can visit the [Hylo Public Comment](https://www.hylo.com/groups/regen-methodology-development/stream/post/91900) page.
 
 {% file src="../../.gitbook/assets/M-ICR011 v1.3 by Crop Intellect.pdf" %}
