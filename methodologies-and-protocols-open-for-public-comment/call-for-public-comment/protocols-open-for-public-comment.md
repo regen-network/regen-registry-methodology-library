@@ -30,7 +30,7 @@ Submit your comments using the [Public Comment Submission Form](https://airtable
 
 **Comment period closes: April 10th**&#x20;
 
-Join an informal discussion around the #PristinePlanet Credit Class and #PristineParish Methodology with the Regen team and the community in our [Hylo group](https://www.hylo.com/groups/regen-methodology-development).
+Join an informal discussion around the #PristinePlanet Credit Class and #PristineParish Methodology with the Regen team and the community in our [Hylo group](https://www.hylo.com/groups/regen-methodology-development/stream/post/107185).
 
 ***
 
