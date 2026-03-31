@@ -18,7 +18,7 @@ description: >-
 
 **Methodology and Protocol Documents:**&#x20;
 
-{% file src="../../.gitbook/assets/Environmental Stewardship Methodology - #PristineParish Protocol 0.05.docx.pdf" %}
+{% file src="../../.gitbook/assets/Environmental Stewardship Methodology - #PristineParish Methodology 0.05.pdf" %}
 
 {% file src="../../.gitbook/assets/Environmental_Stewardship_Credit_Class_-_PristinePlanet_0.03.pdf" %}
 
